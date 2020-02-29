@@ -687,3 +687,11 @@ CYR = {
 	color = rgb { 117 80 123 }
 	color_ui = rgb { 117 80 123 }
 }
+AND = {
+	color = rgb { 126 140 128 }
+	color_ui = rgb { 126 140 128 }
+}
+TRK = {
+	color = rgb { 89 214 255 }
+	color_ui = rgb { 89 214 255 }
+}

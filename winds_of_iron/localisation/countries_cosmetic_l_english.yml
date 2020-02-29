@@ -712,3 +712,7 @@
  HOL_benelux_unified_democratic:0 "Benelux Federation"
  HOL_benelux_unified_democratic_DEF:0 "the Benelux Federation"
  HOL_benelux_unified_democratic_ADJ:0 "Benelux"
+ MAN_SOV_fascist:0 "Manchuria"
+ MAN_SOV_fascist_DEF:0 "the Protectorate of Manchuria"
+ MAN_subject:0 "$OVERLORDADJ$ Manchuria"
+ MAN_subject_DEF:0 "$OVERLORDADJ$ Manchuria"

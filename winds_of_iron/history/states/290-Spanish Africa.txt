@@ -1,0 +1,39 @@
+
+state={
+	id=290
+	name="STATE_290"
+	resources={
+		steel=15.000
+	}
+
+	history={
+		owner = MOR
+		add_core_of = MOR
+		SPR = {
+			set_province_controller = 10113
+			set_province_controller = 12087
+			set_province_controller = 4199
+			set_province_controller = 7215
+		}
+		victory_points = {
+			9945 5 
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+			12100 = {
+				naval_base = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		4199 7215 9945 10113 12087 
+	}
+	manpower=744000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

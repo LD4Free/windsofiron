@@ -1,6 +1,6 @@
 ﻿capital = 16
 
-oob = "FRA_1936"
+oob = "FRA_1910"
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "FRA_1936_naval_mtg"
@@ -89,6 +89,19 @@ if = {
 	}
 	add_ideas = MTG_naval_treaty_adherent
 }
+
+# DIPLOMACY 
+if = {
+	limit = {
+		has_start_date < 1936.01.02
+	}
+
+	declare_war_on = {
+		target = MOR
+		type = annex_everything
+	}
+}
+
 1939.1.1 = {
 
 	add_political_power = 899
@@ -215,15 +228,15 @@ set_convoys = 300
 
 
 set_politics = {
-	ruling_party = constitutionalism
+	ruling_party = authoritarian_democrat
 	last_election = "1894.8.10"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
-	constitutionalism = 69
+	authoritarian_democrat = 69
 	communism = 8
-	absolutism = 2
+	paternal_autocrat = 2
 	democratic = 20
 }
 
@@ -242,7 +255,7 @@ create_country_leader = {
 	desc = "POLITICS_LOUIS_PHILIPPE_DESC"
 	picture = "Portrait_France_Louis_Philippe_III.dds"
 	expire = "1965.1.1"
-	ideology = constitutionalism_subtype
+	ideology = authoritarian_democrat_subtype
 	traits = {
 		stout_defender
 	}

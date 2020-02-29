@@ -1,5 +1,7 @@
 ﻿capital = 104
 
+oob = "BOS_1910"
+
 set_research_slots = 3
 
 # Starting tech
@@ -39,5 +41,26 @@ if = {
 	}
 }
 
-set_popularities = {	paternal_autocrat = 100
+set_politics = {
+	ruling_party = paternal_autocrat
+	last_election = "1892.11.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	paternal_autocrat = 100
+}
+
+set_stability = 0.50
+
+create_country_leader = {
+	name = "Prince Georg I"
+	desc = "POLITICS_GEORG_I_DESC"
+	picture = "Portrait_Bosnia_Georg_I.dds"
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_subtype
+	traits = {
+		#
+	}
 }

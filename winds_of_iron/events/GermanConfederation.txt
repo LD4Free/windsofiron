@@ -1,7 +1,7 @@
 add_namespace = german
 
 country_event = {
-	# opener for german
+	# opener for north germany
 	id = german.1
 	title = german.1.t
 	desc = german.1.d

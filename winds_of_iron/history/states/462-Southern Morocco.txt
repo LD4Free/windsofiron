@@ -6,8 +6,15 @@ state={
 	history={
 		owner = MOR
 		add_core_of = MOR
+		add_core_of = MOR
+		FRA = {
+			set_province_controller = 1102
+		}
 		victory_points = {
-			4108 1 
+			4108 2 
+		}
+		victory_points = {
+			10731 1 
 		}
 		buildings = {
 			infrastructure = 1

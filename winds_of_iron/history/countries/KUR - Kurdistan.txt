@@ -1,6 +1,6 @@
-﻿capital = 230 #Yerevan, Armenia
+﻿capital = 350
 
-oob = "AZR_1936"
+oob = "KUR_1910"
 
 set_research_slots = 3
 
@@ -21,10 +21,7 @@ set_technology = {
 	#basic_heavy_tank = 1  # PLACEHOLDER
 	#basic_medium_tank = 1 # PLACEHOLDER
 	early_fighter = 1
-	fighter1 = 1
 	early_bomber = 1
-	strategic_bomber1 = 1
-	naval_bomber1 = 1
 	
 	mass_assault = 1
 	fleet_in_being = 1
@@ -61,41 +58,24 @@ if = {
 	}
 }
 
-set_popularities = {	fascism = 34
-	democratic = 30
-	communism = 36
+set_politics = {
+	ruling_party = paternal_autocrat
+	last_election = "1904.2.4"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {	paternal_autocrat = 100
 }
 
 create_country_leader = {
-	name = "Drastamat Kanayan"
-	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
+	name = "Mahmud Barzanji I"
+	desc = "POLITICS_MAHMUD_BARZANJI_DESC"
+	picture = "Portrait_Kurdistan_Mahmud_Barzanji.dds"
 	expire = "1953.3.1"
-	ideology = fascism_ideology
+	ideology = paternal_autocrat_subtype
 	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Hovhannes Kajaznuni"
-	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
-	expire = "1953.3.1"
-	ideology = conservatism
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Grigor Harutyunyan"
-	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
-	expire = "1953.3.1"
-	ideology = stalinism
-	traits = {
-		
+	
 	}
 }
 

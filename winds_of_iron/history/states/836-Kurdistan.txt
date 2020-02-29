@@ -2,9 +2,23 @@
 state={
 	id=836
 	name="STATE_836"
+
+	history={
+		owner = KUR
+		victory_points = {
+			1549 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = KUR
+
+	}
+
 	provinces={
 		1549 3916 5014 6826 10804 10811 12387 12416 
 	}
-	manpower=0
+	manpower=81274
 	buildings_max_level_factor=1.000
 }
