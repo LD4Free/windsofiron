@@ -1,0 +1,15 @@
+on_actions = {
+
+	on_startup = {
+		effect = {
+			#Introductions
+			every_country = { 
+			country_event = austria.1
+			country_event = california.1	
+			country_event = german.1
+			country_event = denmark.1
+			country_event = deseret.1
+			 }
+
+		}
+	}

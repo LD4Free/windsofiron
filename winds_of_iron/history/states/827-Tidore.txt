@@ -1,0 +1,23 @@
+state={
+	id=827
+	name="STATE_827"
+
+	history={
+		owner = GER
+		victory_points = {
+			7413 2 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = GER
+
+	}
+
+	provinces={
+		1351 1419 1437 7413 10141 
+	}
+	manpower=40649
+	buildings_max_level_factor=1.000
+}

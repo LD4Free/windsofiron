@@ -1,0 +1,22 @@
+
+state={
+	id=661
+	name="STATE_661"
+
+	history={
+		owner = SIC
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = SIC
+
+	}
+
+	provinces={
+		1174 4051 4117 4176 4962 7154 7194 7985 10037 10067 10884 11940 12009 12022 12082 12866 
+	}
+	manpower=17617
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

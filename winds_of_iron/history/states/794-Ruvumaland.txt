@@ -1,0 +1,26 @@
+state={
+	id=794
+	name="STATE_794"
+	history={
+		add_core_of = TAN
+		owner = DEN
+		victory_points = {
+			10201 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 3
+			12944 = {
+				naval_base = 3
+				coastal_bunker = 3
+			}
+		}
+
+	}
+	provinces={
+		8201 10845 12944 
+	}
+	manpower=200314
+	buildings_max_level_factor=1.000
+}

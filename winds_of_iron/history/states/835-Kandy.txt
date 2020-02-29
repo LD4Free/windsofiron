@@ -1,0 +1,21 @@
+
+state={
+	id=835
+	name="STATE_835"
+
+	history={
+		owner = INS 
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = INS
+
+	}
+
+	provinces={
+		1213 10229 10287 12258 
+	}
+	manpower=48590
+	buildings_max_level_factor=1.000
+}

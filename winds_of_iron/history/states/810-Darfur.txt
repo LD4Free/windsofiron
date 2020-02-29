@@ -1,0 +1,23 @@
+state={
+	id=810
+	name="STATE_810"
+
+	history={
+		owner = DRF
+		victory_points = {
+			1960 2 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = DRF
+
+	}
+
+	provinces={
+		1960 5060 
+	}
+	manpower=86243
+	buildings_max_level_factor=1.000
+}

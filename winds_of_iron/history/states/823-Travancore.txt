@@ -1,0 +1,20 @@
+state={
+	id=823
+	name="STATE_823"
+
+	history={
+		owner = INS
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = INS
+
+	}
+
+	provinces={
+		1238 1321 
+	}
+	manpower=45795
+	buildings_max_level_factor=1.000
+}

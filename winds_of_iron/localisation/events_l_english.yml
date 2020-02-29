@@ -1,0 +1,93 @@
+﻿l_english:
+  generic.1.a:0 "Weather the storm."
+  generic.1.b:0 "Rise above it."
+  #####
+  austria.1.t:0 "The Sun Rises Over Hofburg"
+  austria.1.d:0 "The nation cries a hundred pleas in a dozen languages. For a decade, Austria has retained its rule over the tumultuous lands and peoples of the Pannonian Basin, a region bestowed by the grace of Holy Roman Emperor and soon Archduke Francis I, founder of the proud blood that pumps through the Emperor even now. The nation was not without its failings; campaign after campaign of conquest brought scars to the lowlands. Even now, it sits mocked by its place within a sexumverate of German nations, too weak to fight against the Russians or French, but too strong to bring peace to its lands. The previous ruler, Franz Josef I, saw visions of a Greater Austrian Empire, a united land of Germans built to contest the pitiful nations to its east and west, but, his failings plenty, visions they would have to remain. Of course, they needn’t stay ideals for long. A new Emperor saw himself atop a throne he contested his father for time and time again. His reign approaches two decades now, and his own insight has snaked its way into the minds of an Austrian people. Yes, Pan-Germanism ruled the lands for longer than the people could remember, but awash in a new status quo, Austrian Nationalism grew, only bolstered by the recent 5907 Austrian Constitution, granting slack to the tensions between §HRudolf I§!, the nobles, and the minorities within its borders. \n \n Of course, not all saw his rule as such. Unrest resides in the minds of the Hungarians whose lands have been ripped from them for so long, and there grows a special anti-monarchist sentiment in radicals from every corner of the countryside. The wind is whipping around us even now, and the smell of rain dots the horizon. Two ways forward present themselves."
+
+  austria.2.t:0 "A Courier from Copenhagen"
+  austria.2.d:0 "A messenger from Copenhagen came today, with information that the North German Confederation finds itself distracted waging war on their humble country. A distracted Germany is a rare opportunity, and having their army distracted on the other side of the country could give us a chance to advance deep into their territory before they’re ready to fight back. One of our military leaders is suggesting a new kind of strategy where we relentlessly push forward into their lines, the fastest troops we have to speed through whatever defenses they’ve set up."
+  austria.2.a:0 "We Can't Afford a War."
+  austria.2.b:0 "Sounds Like Quite the Opportunity."
+  #####
+  california.1.t:0 "The Sun Rises Over Los Angeles"
+  california.1.d:0 "Gold shimmers in the sands even as the world around it grows dark. For a half century, the harsh desert has thrived under careful rule. The lands were hard fought by pioneers of the former American states, who sought gold while the Mexican Empire floundered with its internal strife. A quick, nearly bloodless revolution later, and the Bear Flag was raised over Sutter’s Fort, soon to be converted into a proper capital, and renamed Sacramento. The work to secure the region was quick, headed by a series of strong leaders with industry at their core. As the mining complex grew, so too did the shipyards and agriculture of the lands bare of riches. The republic stands strong, a major player in the American wilds, especially so as tensions rise on its east coast. Although she finds herself removed from the action, her neighbors are schemers just the same. Columbia sits in the north, ready to reclaim its Pacific presence, and the natives cannot be trusted. Texas stands as a proud trade partner, but the scars of the Magnum War are fresh in the minds of both of our citizens. Our largest threat is to the south; just across the Gila River, Mexico stands, ready to strike and reclaim its lands lost so long ago. Gillet leads the country, a careful propentent of foreign policy and infrastructure. For all his efforts, he still stands as a representation of the growing racial tension in her fair lands. Where her citizens of Mexican heritage find themselves able to vote, they, alongside numerous Asian- and African-Californians find themselves consistently the punching bag, being kicked to the curb by the Anglo-Saxons who insist upon their leadership, and left behind in policy. Tensions are growing. Even now, wind is whipping around the coast, and the smell of rain and thunder is in the air. There are two ways to withstand the oncoming tempest."
+  #####
+  denmark.1.t:0 "The Sun Rises Over Amalienborg"
+  denmark.1.d:0 "Desc Placeholder"
+
+  denmark.2.t:0 "Word From the German Border"
+  denmark.2.d:0 "A German horseman came bounding into the capital today, escorted by a troop of our own border patrol. He’s nervous, but the message in his hand is written with eloquence. His Majesty Frederick VIII, it has come to my attention that some of the good German men stationed at our shared border have unfortunately fired upon your own soldiers. Words cannot speak a justification for such a tragedy, but perhaps actions can. Attached to the saddlebags of our fine courier is compensation to go to yourself and the families of those involved. It is the least the German people can do to make what we’ve done right."
+  denmark.2.a:0 "Accept, For Now."
+  denmark.2.b:0 "The Krauts Will Pay!"
+
+  denmark.3.t:0 "Bodies Found At The Border!"
+  denmark.3.d:0 "This morning, a captain reported that a scouting brigade on the border never returned from its patrol. When they went looking, they couldn’t find the four men who went missing, but he strongly suspects the Germans are up to something. The death of good Danish citizens is no laughing matter. We can demand reimbursement from the Germans, or let the incident slide. We don’t want their barbarism directed at us, after all. Still, some nationalists are calling for an escalation of the conflict. Why should Prussia be the one to unite Germany, after all? "
+  denmark.3.a:0 "The State and the Families Demand Pay!"
+  denmark.3.b:0 "We Don't Bargain With Terrorists."
+  denmark.3.c:0 "Well, as Long as They Don't Do it Again..."
+
+  denmark.4.t:0 "Germany Declares War!"
+  denmark.4.d:0 "German troops crossed into our lands, which isn’t exactly something we were prepared for. The border patrol said a fireteam on patrol never came back. Information that slowly worked its way back to us until the Germans decided to strike. Our options are limited. Our military isn’t exactly the best, but we might be able to hold them off at a crossing or two long enough for them to bleed themselves out and lose momentum. Of course, we could always beg the Austrians for help, as pathetic as we might sound. They’re known for not being the biggest fans of Prussia, after all."
+  denmark.4.a:0 "Uh Oh."
+  denmark.4.b:0 "Get a Courier to Vienna!"
+
+  denmark.5.t:0 "The Germans Accept!"
+  denmark.5.d:0 "Our courier came back today, saddle heavy with the bounty he was disbursed. It seems the Germans were reasonable, this time. Hopefully this becomes a trend."
+  denmark.5.a:0 "Righteous."
+
+  denmark.6.t:0 "The Germans Refuse!"
+  denmark.6.d:0 "Our courier came back today, hands empty of any additional sum. It seems the Germans think our soldiers were not worth the amount we did. We could show them the true value of a good Danish man by sending several armed ones on a warpath to Berlin, or we could stand down. Not everything must be solved with steel."
+  denmark.6.a:0 "They'll Get Theirs, In Time."
+  denmark.6.b:0 "To War, Then!"
+
+  denmark.7.t:0 "The Germans Accept Our Terms!"
+  denmark.7.d:0 "To be honest, it didn’t seem like the Germans would accept such heavy sanctions, but we find ourselves with a contract signed by their King and Chancellor, and a heavy bounty in our laps. The king seems quite pleased at this German bowing, and talk is already spreading throughout the continent of Prussians submitting themselves to Danes. Maybe this is the start of something between our two countries."
+  denmark.7.a:0 "Righteous."
+
+  denmark.8.t:0 "Vienna is Silent."
+  denmark.8.d:0 "It seems, for all of their Prussian hatred, the Austrians have no mind for pointless wars. While a distracted North Federation must have sounded tempting, evidently the carrot was not enough for this stubborn ass. We are on our own, for now."
+  denmark.8.a:0 "Oh Dear."
+
+  denmark.9.t:0 "Vienna Comes to Our Aid!"
+  denmark.9.d:0 "There was no greater relief in our King's eyes than the second he read the agreement of the Austrians to aid us in our defense. We might’ve been able to hold the Prussians off on our own, but with a war on two fronts, there’s no way they’re going to be able to take Copenhagen. To arms, men, we have territory to reclaim!"
+  denmark.9.a:0 "Righteous."
+  #####
+  deseret.1.t:0 "The Sun Rises Over the Minneapolis Temple"
+  deseret.1.d:0 "As we approach the end of our first decade of holy leadership of these fine northern lands, we need to take time to remember those who we must have left behind. We left the Federal remains a broken people, bound together only by our love for the Lord and our determination to worship him freely. Out west we went, securing these lands from the heathens here before. We’ve built up our settlements, and cities like Minneapolis have become beacons of faith for those around the world. As we prepare for these oncoming times, we can be reassured that the future is bright. /n/n These are the words the administration gave to a people at the turn of the decade, but they do not reflect a fundamental truth. Cracks lie beneath Deseret, crumbling the foundation and slowly eroding the pristine exterior we hope to maintain. Factionalism grows the divide between the two Mormon sects, and predators seek to change the country in its entirety. The Imnia party, led by Ezra Thompson, seeks to secularize and democratize our divine rule. Socialism is brewing in our mines and non-Mormon churches as well, leaders like Joe Hagglund and Franklin Spencer Spalding are ready to see our stable free market destroy itself from within. A recent population boom is only expediting our issues, and there are talks that the mines are running dry already. There is even a word of extreme solution deep within the church. The winds are howling through the snowy peaks, and the lakes are whipping up tempests. It’s in these times we find ourselves presented with two paths ahead."
+ #####
+  german.1.t:0 "The Sun Rises Over Berlin"
+  german.1.d:0 "Berlin is what some call the pinnacle of European culture and democracy. For half a century, the North German Confederacy has stood as a fair monarchy, founded on ideals of liberalism and German nationalism for all of its citizens. Well, most of them. The western holdings are rife with Poles, still clamoring with nationalism for their true state. Of course, the Austrians to the south would be happy to support and insurrection, given the chance. They, alongside France, Spain, and Russia have been a thorn in North Germany’s side for as long as Prussia has made its presence known. To call their position precarious would be understating the line they balance. In spite of these perils, the North German Confederation stands as a bastion of liberal, anti-catholic monarchism in a time where it may grow scarce. The reign of Frederick III has found more rights for every citizen, and the recent election has a Jew in the Chancellorship for the first time ever. Hugo Preuß champions some… strange ideas, but his ambition to see the democracy grow is admirable by those who seek justice and representation where there was none before. Of course, these ideals may rock the boat. Austria grows hungrier by the day, and there are talks of the Pact dissolving entirely. South Germany remains a constantly sought prize by both us and the Austrians, and nations everywhere are itching to test the warfare they’ve so maliciously expanded. Yes, the boat is rocking, and the waves grow higher. Clouds are on the horizon, and the wind is whipping around us once more. Two ways forward present themselves."
+
+  german.2.t:0 "The Holstein Incident"
+  german.2.d:0 "A Courier from Schleswig came bounding into the palace today, his breath ragged from the journey. Clutched in his hand was a note, a body count. Four danish soldiers lay dead after an exercise by a young Captain Heinz Guderian, who’s squad mistakenly fired live rounds across the border, which caught a Danish unit on patrol. While quick, it was not bloodless, and the reports confirm the entire recon unit was wiped out. The bodies were quietly recovered by our staff, but they’re at a loss. We could preemptively issue an apology, along with compensation for the soldier’s families, or wait for the Danish to react. Alternatively, there’s no saying who fired first, this provocation could prove a good opportunity, although we never know who else might be watching."
+  german.2.a:0 "Issue a Formal Apology."
+  german.2.b:0 "Let's Wait and See."
+  german.2.c:0 "Good Work Lad; Let's Finish the Job!"
+
+  german.3.t:0 "The Danish Accept"
+  german.3.d:0 "Our best condolences seemed to have worked; the Danes came back with a graceful acceptance, and the waves seemed to have smoothed over, for now. Let’s hope no more trouble comes from the North."
+  german.3.a:0 "Another Victory for Democracy." 
+
+  german.4.t:0 "The Danes Make Their Demands"
+  german.4.d:0 "It seems the Danes have higher standards than we expected. The sum we sent hasn’t been returned, and yet they demand more. We could always give more, but is subjecting ourselves to the whims of our small northern neighbors the best show of power Germans can muster?"
+  german.4.a:0 "If We Must."
+  german.4.b:0 "We've Given What We Can."
+
+  german.5.t:0 "The Danes Back Down"
+  german.5.d:0 "It seems they were merely pushing their luck. When we shut down their demands, they had no choice but to take what they were already given and move on. As if a puny nation would be of any consequence to our great state!"
+  german.5.a:0 "Bold Words, Little Action."
+
+  german.6.t:0 "The Danes Declare War!"
+  german.6.d:0 "In a shocking amount of follow-through, the Danes seem eager to claim their bounty. Their soldiers crossed our border this morning. We’ll have to put them back in their rightful place. What could a puny nation ever do to our great state?"
+  german.6.a:0 "Seems A Little Out-of-Character."  
+
+  german.7.t:0 "We've Been Found Out?"
+  german.7.d:0 "A Danish courier came to our palace today, escorted by armed troops. In his hands was a ledger. Four names, rattled off quickly, along with ages and status of who they’re survived by. After he finished his small speech he looked up expectantly, before continuing with a list of demands. An excessive sum of gold was required to reimburse the families and the king, he explained with a frown. They demanded a formal apology, as well, and for us to strip the guards responsible of their rank, limit patrols on their border, and remove tariffs on their goods. Anything less would be an insult to the Danish lives lost."
+  german.7.a:0 "Alright, Fine." 
+  german.7.b:0 "Seems Their Message Got Lost Somewhere." 
+
+  german.8.t:0 "The Austrians Are Upon Us!"
+  german.8.d:0 "It seems we might have been too eager in our northern conquest. The Danes managed to get a diplomat out, who sought refuge in Vienna. All of a sudden, Austrian soldiers are moving into our lands. It seems they were happier with the status quo than we thought. A war on two fronts isn’t that bad, right?"
+  german.8.a:0 "Scheiße." 
+  #####

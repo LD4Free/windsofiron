@@ -1,0 +1,57 @@
+capital = 371
+
+OOB = "LOU_1910"
+
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1
+	tech_recon = 1
+}
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1908.12.5"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_popularities = {
+	democratic = 87
+	neutrality = 13
+}
+
+set_convoys = 5
+
+create_country_leader = {
+	name = "Jared Y. Sanders"
+	desc = "POLITICS_JARED_SANDERS_DESC"
+	picture = "Portrait_Louisiana_Jared_Sanders.dds"
+	expire = "1965.1.1"
+	ideology = liberalism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Stephen B. Packard"
+	desc = "POLITICS_STEPHEN_PACKARD_DESC"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
+	expire = "1965.1.1"
+	ideology = conservative
+	traits = {
+		#
+	}
+}
+
+create_field_marshal = {
+	name = "Rutherford Lee"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
+	traits = { }
+	skill = 2
+	attack_skill = 1
+    defense_skill = 3
+    planning_skill = 2
+    logistics_skill = 1
+}
+

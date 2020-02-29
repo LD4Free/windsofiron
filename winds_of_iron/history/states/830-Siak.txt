@@ -1,0 +1,23 @@
+state={
+	id=830
+	name="STATE_830"
+
+	history={
+		owner = INS
+		victory_points = {
+			12168 2 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = INS
+
+	}
+
+	provinces={
+		1277 7327 7463 12168 12181 12302 
+	}
+	manpower=53494
+	buildings_max_level_factor=1.000
+}

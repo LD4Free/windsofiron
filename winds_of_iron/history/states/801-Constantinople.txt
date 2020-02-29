@@ -1,0 +1,23 @@
+state={
+	id=801
+	name="STATE_801"
+
+	history={
+		owner = CNS
+		victory_points = {
+			9833 4 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = CNS
+
+	}
+
+	provinces={
+		9833 11829 
+	}
+	manpower=243000
+	buildings_max_level_factor=1.000
+}

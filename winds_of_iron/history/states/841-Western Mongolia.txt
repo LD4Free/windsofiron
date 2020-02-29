@@ -1,0 +1,32 @@
+state={
+	id=841
+	name="STATE_841"
+	resources={
+		steel=1.000
+		chromium=500
+	}
+
+	history={
+		owner = MON
+		victory_points = {
+			1689 5 
+		}
+		victory_points = {
+			4777 1 
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		add_core_of = MON
+
+	}
+
+	provinces={
+		1689 1774 1781 1855 4751 4777 7773 7799 7808 7843 7870 10539 10560 10563 10634 10669 10695 12520 12544 12695 
+	}
+	manpower=47935
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,23 @@
+state={
+	id=803
+	name="STATE_803"
+
+	history={
+		owner = SUL
+		victory_points = {
+			1306 2 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = SUL
+
+	}
+
+	provinces={
+		1306 4282 4338 7358 10143 10184 10199 10212 10240 12171 12186 12228 
+	}
+	manpower=123892
+	buildings_max_level_factor=1.000
+}

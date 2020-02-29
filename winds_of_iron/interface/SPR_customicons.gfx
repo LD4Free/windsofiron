@@ -1,0 +1,23 @@
+spriteTypes = { 
+##Icon For: 1915197
+ SpriteType = { 
+ name = "GFX_espaa" 
+ texturefile = "gfx/interface/goals/GFX_espaa.tga" 
+ }##Icon For: 1921081
+ SpriteType = { 
+ name = "GFX_lasespaas" 
+ texturefile = "gfx/interface/goals/GFX_lasespaas.tga" 
+ }##Icon For: 1921221
+ SpriteType = { 
+ name = "GFX_galicia" 
+ texturefile = "gfx/interface/goals/GFX_galicia.tga" 
+ }##Icon For: 1921218
+ SpriteType = { 
+ name = "GFX_catalonia" 
+ texturefile = "gfx/interface/goals/GFX_catalonia.tga" 
+ }##Icon For: 1921219
+ SpriteType = { 
+ name = "GFX_euskadi" 
+ texturefile = "gfx/interface/goals/GFX_euskadi.tga" 
+ } 
+ }

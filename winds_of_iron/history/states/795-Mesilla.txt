@@ -1,0 +1,23 @@
+state={
+	id=795
+	name="STATE_795"
+
+	history={
+		owner = MEX
+		victory_points = {
+			6991 1 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = MEX
+
+	}
+
+	provinces={
+		3834 5044 7920 10783
+	}
+	manpower=27893
+	buildings_max_level_factor=1.000
+}

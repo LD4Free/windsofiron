@@ -1,0 +1,24 @@
+state={
+	id=799
+	name="STATE_799"
+
+	history={
+		owner = HOL
+		victory_points = {
+			10803 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = HOL
+		add_core_of = GHA
+
+	}
+
+	provinces={
+		10803 10862 12742 
+	}
+	manpower=20897
+	buildings_max_level_factor=1.000
+}

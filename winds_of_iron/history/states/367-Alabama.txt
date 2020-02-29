@@ -1,0 +1,36 @@
+
+state={
+	id=367
+	name="STATE_367"
+	manpower = 2646247
+	
+	state_category = city
+
+	history={
+		owner = GEG
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			7480 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = GEG
+		victory_points = {
+			7480 1 
+		}
+		victory_points = {
+			12735 1 
+		}
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 4
+			}
+		}
+
+	}
+
+	provinces={
+		1587 4594 4622 5059 7422 10192 11509 12735 12803 
+	}
+}

@@ -1,0 +1,66 @@
+capital = 363
+
+oob = CAR_1910
+
+set_research_slots = 3
+
+# Starting tech
+set_technology = {
+	tech_support = 1		
+	tech_engineers = 1
+	tech_mountaineers = 1
+	early_fighter = 1
+	gwtank = 1
+	basic_light_tank = 1
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	
+}
+
+if = {
+	limit = {
+		not = { has_dlc = "Man the Guns" }
+	}
+	set_technology = {
+		early_destroyer = 1
+		early_light_cruiser = 1
+		early_submarine = 1
+	}
+}
+if = {
+	limit = {
+		has_dlc = "Man the Guns"
+	}
+	set_technology = {
+		early_ship_hull_submarine = 1
+		early_ship_hull_light = 1
+		early_ship_hull_cruiser = 1
+		basic_battery = 1
+		basic_torpedo = 1
+	}
+}
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1906.23.4"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+
+set_popularities = {
+	fascism = 3
+	democratic = 86
+	communism = 11
+}
+
+create_country_leader = {
+	name = "William Walton Kitchin"
+	desc = ""
+	picture = "Portrait_Carolina_William_Walton_Kitchin.dds"
+	expire = "1953.3.1"
+	ideology = liberalism
+	traits = {
+		
+	}
+}

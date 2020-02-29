@@ -1,0 +1,20 @@
+state={
+	id=842
+	name="STATE_842"
+
+	history={
+		owner = ITA 
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = ITA 
+
+	}
+
+	provinces={
+		3773 3976 6790 9752 
+	}
+	manpower=34000
+	buildings_max_level_factor=1.000
+}

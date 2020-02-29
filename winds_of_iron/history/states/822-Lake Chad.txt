@@ -1,0 +1,20 @@
+
+state={
+	id=822
+	name="STATE_822"
+
+	history={
+		owner = BNU
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = BNU
+
+	}
+
+	provinces={
+		3123 4897 4978 13138 
+	}
+	manpower=4000
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=792
+	name="STATE_792"
+
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 7
+			dockyard = 3
+			air_base = 10
+			9833 = {
+				naval_base = 6
+
+			}
+
+		}
+		add_core_of = ENG
+		add_claim_by = TUR
+		victory_points = {
+			9833 30.0 
+		}
+		victory_points = {
+			849 3 
+		}
+
+	}
+
+	provinces={
+		849 6864 9887 
+	}
+	manpower=289245
+	buildings_max_level_factor=1.000
+}

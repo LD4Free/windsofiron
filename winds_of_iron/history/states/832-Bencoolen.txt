@@ -1,0 +1,23 @@
+state={
+	id=832
+	name="STATE_832"
+
+	history={
+		owner = ENG
+		victory_points = {
+			12138 2 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = ENG
+
+	}
+
+	provinces={
+		7308 7440 12138 12209 
+	}
+	manpower=37391
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,174 @@
+capital = 391
+
+oob = DES_1910
+
+set_research_slots = 3
+
+# Starting tech
+set_technology = {
+	tech_support = 1		
+	tech_engineers = 1
+	tech_mountaineers = 1
+	early_fighter = 1
+	gwtank = 1
+	basic_light_tank = 1
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	
+}
+
+if = {
+	limit = {
+		not = { has_dlc = "Man the Guns" }
+	}
+	set_technology = {
+		early_destroyer = 1
+		early_light_cruiser = 1
+		early_submarine = 1
+	}
+}
+if = {
+	limit = {
+		has_dlc = "Man the Guns"
+	}
+	set_technology = {
+		early_ship_hull_submarine = 1
+		early_ship_hull_light = 1
+		early_ship_hull_cruiser = 1
+		basic_battery = 1
+		basic_torpedo = 1
+	}
+}
+
+set_politics = {
+	ruling_party = paternal_autocrat
+	last_election = "1901.17.10"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+
+set_popularities = {
+	paternal_autocrat = 100
+}
+
+create_country_leader = {
+	name = "Bishop Paul Jones"
+	desc = ""
+	picture = "Portrait_Deseret_Bishop_Paul_Jones.dds"
+	expire = "1953.3.1"
+	ideology = null #replace with luxemburgism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Joe Hägglund"
+	desc = ""
+	picture = "Portrait_Deseret_Joe_Hagglund.dds"
+	expire = "1953.3.1"
+	ideology = null #replace with Marxism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Franklin Spencer Spalding"
+	desc = ""
+	picture = "Portrait_Deseret_Franklin_Spencer_Spalding.dds"
+	expire = "1953.3.1"
+	ideology = null #replace with Anarchism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Elizabeth A. W. Cannon"
+	desc = ""
+	picture = "Portrait_Deseret_Elizabeth_Cannon.dds"
+	expire = "1953.3.1"
+	ideology = null #replace with Social Democracy
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Reed Smoot"
+	desc = ""
+	picture = "Portrait_Deseret_Reed_Smoot.dds"
+	expire = "1953.3.1"
+	ideology = null #replace with Social Liberalism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Thomas Kearns"
+	desc = ""
+	picture = "Portrait_Deseret_Thomas_Kearns.dds"
+	expire = "1953.3.1"
+	ideology = null #replace with Market Liberalism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Nephi Anderson"
+	desc = ""
+	picture = "Portrait_Deseret_Nephi_Anderson.dds"
+	expire = "1953.3.1"
+	ideology = null #replace with Social Conservatism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Ezra Thompson"
+	desc = ""
+	picture = "Portrait_Deseret_Ezra_Thompson.dds"
+	expire = "1953.3.1"
+	ideology = authoritarian_democrat_subtype #replace with AuthDem
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Joseph F. Smith"
+	desc = ""
+	picture = "Portrait_Deseret_Joseph_F_Smith.dds"
+	expire = "1953.3.1"
+	ideology = paternal_autocrat_subtype #replace with pataut
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "William Lloyd Harding"
+	desc = ""
+	picture = "Portrait_Deseret_William_Lloyd_Harding.dds"
+	expire = "1953.3.1"
+	ideology = null #replace with national populism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Council of 50"
+	desc = ""
+	picture = "Portrait_Deseret_Mormonism.dds"
+	expire = "1953.3.1"
+	ideology = null #replace with theocracy
+	traits = {
+		
+	}
+}

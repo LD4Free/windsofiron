@@ -1,0 +1,147 @@
+focus_tree = {
+	id = spanish_focus
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = SPR
+		}
+	}
+	#Focus for Focus on the Military
+	focus = {
+		id = SPR_focusonthemilitary
+		icon = GFX_goal_generic_axis_build_infantry
+		x = 20
+		y = 0
+		cost = 10
+		available_if_capitulated = yes
+		ai_will_do = {
+			factor = 1
+		}
+		completion_reward = {
+			add_military_power = 450
+		}
+	}
+
+	#Focus for Political Effort
+	focus = {
+		id = SPR_politicaleffort
+		icon = GFX_goal_generic_demand_territory
+		x = 2
+		y = 0
+		cost = 10
+		available_if_capitulated = yes
+		ai_will_do = {
+			factor = 1
+		}
+		completion_reward = {
+			add_political_power= 450
+		}
+	}
+
+	#Focus for España
+	focus = {
+		id = SPR_espaa
+		icon = GFX_espaa
+		x = 1
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = SPR_politicaleffort }
+		mutually_exclusive = { focus = SPR_lasespaas }
+		ai_will_do = {
+			factor = 1
+		}
+		completion_reward = {
+			add_stability= 0.30
+add_political_power= 630
+		}
+	}
+
+	#Focus for Las Españas
+	focus = {
+		id = SPR_lasespaas
+		icon = GFX_lasespaas
+		x = 3
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = SPR_politicaleffort }
+		mutually_exclusive = { focus = SPR_espaa }
+		ai_will_do = {
+			factor = 2
+		}
+		completion_reward = {
+			add_stability= 1
+add_political_power= -170
+		}
+	}
+
+	#Focus for Galicia
+	focus = {
+		id = SPR_galicia
+		icon = GFX_galicia
+		x = 5
+		y = 3
+		cost = 5
+		available_if_capitulated = yes
+		prerequisite = { focus = SPR_catalonia }
+		mutually_exclusive = { focus = SPR_euskadi }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Catalonia
+	focus = {
+		id = SPR_catalonia
+		icon = GFX_catalonia
+		x = 4
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = SPR_lasespaas }
+		ai_will_do = {
+			factor = 1
+		}
+		completion_reward = {
+			release_puppet= CAT
+add_stability= 0.5
+		}
+	}
+
+	#Focus for Dismantle Autonomies
+	focus = {
+		id = SPR_dismantleautonomies
+		icon = GFX_goal_generic_major_war
+		x = 1
+		y = 2
+		cost = 5
+		available_if_capitulated = yes
+		prerequisite = { focus = SPR_espaa }
+		ai_will_do = {
+			factor = 2
+		}
+		completion_reward = {
+			add_stability= 2
+set_political_power= 100
+		}
+	}
+
+	#Focus for Euskadi
+	focus = {
+		id = SPR_euskadi
+		icon = GFX_euskadi
+		x = 3
+		y = 3
+		cost = 5
+		available_if_capitulated = yes
+		prerequisite = { focus = SPR_catalonia }
+		mutually_exclusive = { focus = SPR_galicia }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+#End of focuses 
+ }

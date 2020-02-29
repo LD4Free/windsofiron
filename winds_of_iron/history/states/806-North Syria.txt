@@ -1,0 +1,24 @@
+
+state={
+	id=806
+	name="STATE_806"
+
+	history={
+		owner = SYR
+		victory_points = {
+			9893 4 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = SYR
+
+	}
+
+	provinces={
+		3889 9823 9893 11871 
+	}
+	manpower=30000
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,23 @@
+state={
+	id=805
+	name="STATE_805"
+
+	history={
+		owner = FRA
+		victory_points = {
+			1088 4 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = FRA
+
+	}
+
+	provinces={
+		806 1088 10087 12029 
+	}
+	manpower=13000
+	buildings_max_level_factor=1.000
+}

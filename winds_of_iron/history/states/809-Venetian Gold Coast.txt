@@ -1,0 +1,24 @@
+state={
+	id=809
+	name="STATE_809"
+
+	history={
+		owner = VNC
+		victory_points = {
+			1951 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = VNC
+		add_core_of = GHA
+
+	}
+
+	provinces={
+		1951 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
