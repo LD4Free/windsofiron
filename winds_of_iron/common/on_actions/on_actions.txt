@@ -8,6 +8,8 @@ on_actions = {
 			country_event = california.1	
 			country_event = german.1
 			country_event = denmark.1
+			country_event = york.1
+			country_event = penn.1
 			 }
 
 		}
