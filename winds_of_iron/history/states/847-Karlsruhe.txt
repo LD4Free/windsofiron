@@ -1,0 +1,27 @@
+state={
+	id=847
+	name="STATE_847"
+	provinces={
+		3530 3679 6542 6568 6581 6712 11640 
+	}
+	manpower=2009320
+	resources={
+		steel=13 # was: 20
+		chromium = 3 # was: 4
+	}
+	
+	state_category = town
+	
+	history={
+		owner = BAD
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+		}
+		victory_points = {
+			6573 1 
+		}
+		add_core_of = BAD
+	}
+	buildings_max_level_factor=1.000
+}

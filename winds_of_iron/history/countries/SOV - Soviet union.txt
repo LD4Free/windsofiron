@@ -260,7 +260,7 @@ if = {
 set_convoys = 50
 
 set_politics = {
-	ruling_party = absolutism
+	ruling_party = paternal_autocrat
 	last_election = "1909.2.10"
 	election_frequency = 48
 	elections_allowed = no
@@ -268,7 +268,7 @@ set_politics = {
 set_popularities = {
 	communism = 10
 	fascism = 2
-	absolutism = 88
+	paternal_autocrat = 88
 }
 
 create_country_leader = {
@@ -276,7 +276,7 @@ create_country_leader = {
 	desc = "POLITICS_NICHOLAS_II_DESC"
 	picture = "Portrait_Russia_Nicholas_II.dds"
 	expire = "1965.3.1"
-	ideology = absolutism_subtype
+	ideology = paternal_autocrat_subtype
 	traits = {
 		
 	}

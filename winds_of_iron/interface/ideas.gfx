@@ -4002,5 +4002,10 @@ spriteTypes = {
 		name = "GFX_idea_MTG_naval_treaty_adherent_reduced"
 		texturefile = "gfx/interface/ideas/idea_mtg_naval_treaty_adherent_reduced.dds"
 	}
+
+	spriteType = {
+		name = "GFX_idea_SPR_struggling_in_the_race"
+		texturefile = "gfx/interface/ideas/generic_struggling_in_the_race.tga"
+	}
 	
 }

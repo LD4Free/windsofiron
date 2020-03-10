@@ -1,4 +1,4 @@
-﻿capital = 791
+﻿capital = 848
 
 oob = "LUC_1910"
 

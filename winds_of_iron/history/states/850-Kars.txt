@@ -1,0 +1,23 @@
+state={
+	id=850
+	name="STATE_850"
+
+	history={
+		owner = ARM
+		victory_points = {
+			6991 1 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = ARM
+
+	}
+
+	provinces={
+		6991 10472 
+	}
+	manpower=98219
+	buildings_max_level_factor=1.000
+}

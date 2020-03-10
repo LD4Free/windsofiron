@@ -551,7 +551,7 @@ PZN = {
 	color = rgb { 101 101 101 }
 	color_ui = rgb { 101 101 101 }
 }
-BAV = {
+BAY = {
 	color = rgb { 77 77 185 }
 	color_ui = rgb { 77 77 185 }
 }
@@ -694,4 +694,8 @@ AND = {
 TRK = {
 	color = rgb { 89 214 255 }
 	color_ui = rgb { 89 214 255 }
+}
+BAL = {
+	color = rgb { 149 154 204 }
+	color_ui = rgb { 149 154 204 }
 }

@@ -1,0 +1,27 @@
+state={
+	id=846
+	name="STATE_846"
+	provinces={
+		563 3558 11547 11560 
+	}
+	manpower=32430
+	resources={
+		steel=13 # was: 20
+		chromium = 3 # was: 4
+	}
+	
+	state_category = town
+	
+	history={
+		owner = BAY
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+		}
+		victory_points = {
+			6573 1 
+		}
+		add_core_of = BAY
+	}
+	buildings_max_level_factor=1.000
+}
